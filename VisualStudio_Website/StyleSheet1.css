@@ -1,0 +1,18 @@
+﻿body {
+    font: bold 12px arial, verdana;
+}
+
+
+#container {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background: red;
+}
+
+#animation {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background: blue;
+}
